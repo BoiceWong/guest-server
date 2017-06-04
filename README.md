@@ -3,4 +3,4 @@ basic server practice
 
 hello world 
 
-Boyce is awesome
+Boice is awesome
